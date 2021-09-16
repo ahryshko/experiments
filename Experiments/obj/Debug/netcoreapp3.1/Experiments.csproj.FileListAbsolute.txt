@@ -1,0 +1,14 @@
+C:\My\AHryshkoExperiments\Experiments\bin\Debug\netcoreapp3.1\Experiments.exe
+C:\My\AHryshkoExperiments\Experiments\bin\Debug\netcoreapp3.1\Experiments.deps.json
+C:\My\AHryshkoExperiments\Experiments\bin\Debug\netcoreapp3.1\Experiments.runtimeconfig.json
+C:\My\AHryshkoExperiments\Experiments\bin\Debug\netcoreapp3.1\Experiments.runtimeconfig.dev.json
+C:\My\AHryshkoExperiments\Experiments\bin\Debug\netcoreapp3.1\Experiments.dll
+C:\My\AHryshkoExperiments\Experiments\bin\Debug\netcoreapp3.1\Experiments.pdb
+C:\My\AHryshkoExperiments\Experiments\obj\Debug\netcoreapp3.1\Experiments.csproj.AssemblyReference.cache
+C:\My\AHryshkoExperiments\Experiments\obj\Debug\netcoreapp3.1\Experiments.GeneratedMSBuildEditorConfig.editorconfig
+C:\My\AHryshkoExperiments\Experiments\obj\Debug\netcoreapp3.1\Experiments.AssemblyInfoInputs.cache
+C:\My\AHryshkoExperiments\Experiments\obj\Debug\netcoreapp3.1\Experiments.AssemblyInfo.cs
+C:\My\AHryshkoExperiments\Experiments\obj\Debug\netcoreapp3.1\Experiments.csproj.CoreCompileInputs.cache
+C:\My\AHryshkoExperiments\Experiments\obj\Debug\netcoreapp3.1\Experiments.dll
+C:\My\AHryshkoExperiments\Experiments\obj\Debug\netcoreapp3.1\Experiments.pdb
+C:\My\AHryshkoExperiments\Experiments\obj\Debug\netcoreapp3.1\Experiments.genruntimeconfig.cache

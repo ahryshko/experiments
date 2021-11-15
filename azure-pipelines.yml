@@ -15,6 +15,12 @@ variables:
   buildConfiguration: 'Release'
 
 steps:
+
+- task: securedevelopmentteam.vss-secure-development-tools.build-task-eslint.ESLint@1
+  displayName: 'Run ESLint'
+  continueOnError: true
+
+
 - task: NuGetToolInstaller@1
 
 - task: NuGetCommand@2

@@ -18,10 +18,9 @@ steps:
 
 - task: securedevelopmentteam.vss-secure-development-tools.build-task-eslint.ESLint@1
   displayName: 'Run ESLint'
-  continueOnError: true
-
 
 - task: NuGetToolInstaller@1
+  condition: succeededOrFailed()
 
 - task: NuGetCommand@2
   inputs:
